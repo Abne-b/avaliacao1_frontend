@@ -1,0 +1,75 @@
+/* Links para fontes */
+@import url('https://fonts.googleapis.com/css2?family=Stint+Ultra+Condensed&display=swap');
+
+html * {
+    margin: 0;
+}
+
+body {
+    text-align: center;
+    background-image: url("https://live.staticflickr.com/4083/5211003168_e1c5b7eda7_k.jpg");
+    background-position: center ;
+    background-repeat:repeat-x;
+    background-size: 100%;
+    background-color: #755f9efd;
+    align-content: center;
+   
+}
+
+
+
+.cabecalho {
+    height: auto;
+    background-size: 100%;
+    background-color: #000102;
+   
+}
+
+.conteudo {
+    height: 90vh;
+    text-align: center;
+    margin: 5vh;
+    background-color: #0000009b;
+    color: #ffffff;
+}
+
+.rodape {
+    height: auto;
+    background-color:#ffffffa6;
+    background-size: 80%;
+    
+}
+
+#ytvideo {
+   text-align: center;
+}
+
+#curiosidades {
+    width: 80vh;
+    height: 20vh;
+    text-align: center;
+    margin: 3vh;
+    background-size: cover;
+    color: #ffffff;
+    padding: 15px 10px;
+    border-radius: 10%;
+    
+}
+
+h1{
+    text-align: center;
+    color: rgb(248, 187, 171);
+    font-family: 'Stint Ultra Condensed', cursive, sans-serif;
+}
+
+h2, h3 {
+    text-align: center;
+    color: rgb(246, 189, 189);
+    font-family: 'Stint Ultra Condensed', cursive, sans-serif;
+    font-size: 30pt;
+}
+
+.iconft {
+    height: 3vh;
+    align-items: baseline;
+}
